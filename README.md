@@ -1,1 +1,3 @@
-# VideoRecommendationSystem
+User Recommendations and Categorization in Social Media Behavior
+
+This project focuses on analyzing user behavior to provide tailored recommendations in a social media environment. By categorizing users into groups based on their similarities in viewing and interaction patterns, the system offers customized suggestions for new content (videos, etc.). A new user is categorized based on their behavior and receives personalized video recommendations based on their interactions with the system. The model aims to maximize user engagement by continuously refining recommendations according to the preferences and tendencies of similar users.
